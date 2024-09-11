@@ -1,11 +1,3 @@
-# pierre feuille ciseaux
-# 3 variable aléatoire (33% de chance de reussite pour chaque)
-# lorsque j'envoie une variable a l'ordi, il me réponds avec une des variable
-# je dois bloquer les autre mots (mais laisser le choix a l'user)
-# faire une boucle pour recommencer le jeu
-# pierre < feuille
-# pierre > ciseaux
-# ciseaux > feuille
 import random
 
 a = ["pierre","papier","ciseaux"]
