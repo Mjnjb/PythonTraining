@@ -1,2 +1,2 @@
-api_key = "RGAPI-d9c2872a-3677-43db-a034-023ca07a8144"
+api_key = "Rentrez Clé API"
 DEFAULT_REGION = "europe"
